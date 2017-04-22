@@ -1,0 +1,26 @@
+{
+  "name": "hubot-graylog-adapter",
+  "version": "0.0.1",
+  "description": "Graylog logging adapter for Hubot",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neufeldtech/hubot-graylog-adapter.git"
+  },
+  "keywords": [
+    "hubot",
+    "graylog",
+    "logger",
+    "log",
+    "adapter"
+  ],
+  "author": "Jordan Neufeld <myjc.niv@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neufeldtech/hubot-graylog-adapter/issues"
+  },
+  "homepage": "https://github.com/neufeldtech/hubot-graylog-adapter#readme"
+}
