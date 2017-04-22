@@ -1,6 +1,6 @@
 {
   "name": "hubot-graylog-adapter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Graylog logging adapter for Hubot",
   "main": "index.js",
   "scripts": {
