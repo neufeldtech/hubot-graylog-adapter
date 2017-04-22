@@ -60,4 +60,4 @@ module.exports = (robot) ->
         console[if message.level > 3 then 'log' else 'error'] date(), message.short_message
         return
       ]
-    robot.logger.info "Hubot Graylog logger was loaded!"
+    robot.logger.debug "Hubot Graylog logger was loaded!"
